@@ -1,5 +1,5 @@
-# Auto-Pay Buddy
+FlowPAY
 Agentic payment
 x402 agentic pay.
 
-Flowing paymment.
+Flow paymment.
